@@ -1,6 +1,6 @@
 {
   "name": "@fourviere/app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "author": "Brainrepo - murru7@gmail.com",
   "license": "MIT",
@@ -19,8 +19,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@fourviere/core": "^0.1.0",
-    "@fourviere/ui": "^0.1.0",
+    "@fourviere/core": "^0.1.1",
+    "@fourviere/ui": "^0.1.1",
     "@heroicons/react": "^2.0.18",
     "@monaco-editor/react": "^4.6.0",
     "@tauri-apps/api": "^1.5.0",

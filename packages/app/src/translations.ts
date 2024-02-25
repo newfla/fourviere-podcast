@@ -24,7 +24,7 @@ const TRANSLATIONS = {
       "The feed is not a valid podcast feed",
     "start.start_by_index.importing_in_progress":
       "Importing in progress... please wait",
-    "edit_feed.presentation.title": "Presentation",
+    "edit_feed.presentation.title": "Presentation s3 uplaod crashes",
     "edit_feed.presentation.title.description":
       "This area will contain the fields necessary for, once completed, having defined the presentation of the podcast.",
     "edit_feed.indexing.title": "Indexing",

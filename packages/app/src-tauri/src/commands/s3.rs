@@ -202,6 +202,7 @@ async fn s3_upload_progress_task(
 #[named]
 #[tauri::command]
 pub async fn s3_upload(uploadable_conf: UploadableConf) -> Result<RemoteFileInfo> {
+    panic!();
     let upload_result = s3_upload_internal(uploadable_conf, false).await;
     log_if_error_and_return!(upload_result)
 }
